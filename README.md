@@ -63,7 +63,9 @@ If no recognized module system is present, access bundle contents via the global
 ```html
 <script type="text/javascript">
 (function () {
+(function () {
     window.example;
+})();
 })();
 </script>
 ```
@@ -115,6 +117,7 @@ var out = example( 'unrecognized_alias_beep_boop_bop_bip' );
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/repl-code-blocks@umd/browser.js"></script>
 <script type="text/javascript">
 (function () {
+(function () {
 
 var list;
 var len;
@@ -129,6 +132,7 @@ for ( i = 0; i < 100; i++ ) {
     console.log( example( list[ idx ] ) );
 }
 
+})();
 })();
 </script>
 </body>
