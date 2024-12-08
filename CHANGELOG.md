@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-01)
+## Unreleased (2024-12-08)
 
 <section class="features">
 
@@ -33,6 +33,7 @@
 
 <details>
 
+-   [`911e839`](https://github.com/stdlib-js/stdlib/commit/911e839cdb47eaed4d3f87f9b22d337c872fbbb3) - **docs:** update REPL namespace documentation [(#3372)](https://github.com/stdlib-js/stdlib/pull/3372) _(by stdlib-bot, Philipp Burckhardt)_
 -   [`c314fa2`](https://github.com/stdlib-js/stdlib/commit/c314fa2199b8bd2deaac417184a363e5272767a5) - **docs:** update REPL namespace documentation [(#3260)](https://github.com/stdlib-js/stdlib/pull/3260) _(by stdlib-bot, Philipp Burckhardt)_
 -   [`136231d`](https://github.com/stdlib-js/stdlib/commit/136231d9a98f773662721f5f292cf50220deafc5) - **docs:** update REPL namespace documentation [(#3244)](https://github.com/stdlib-js/stdlib/pull/3244) _(by stdlib-bot, Philipp Burckhardt)_
 -   [`4b1d77d`](https://github.com/stdlib-js/stdlib/commit/4b1d77d2bd001d5970ce93230765a579fb41349d) - **docs:** update REPL namespace documentation [(#3191)](https://github.com/stdlib-js/stdlib/pull/3191) _(by stdlib-bot, Philipp Burckhardt)_
@@ -179,11 +180,10 @@ A total of 2 people contributed to this release. Thank you to the following cont
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Philipp Burckhardt
--   Planeshifter
 -   kgryte
 
 </section>
