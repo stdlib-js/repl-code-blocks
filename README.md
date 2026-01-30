@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import example from 'https://cdn.jsdelivr.net/gh/stdlib-js/repl-code-blocks@esm/index.mjs';
+import example from 'https://cdn.jsdelivr.net/gh/stdlib-js/repl-code-blocks@v0.5.0-esm/index.mjs';
 ```
 
 #### example( alias )
@@ -101,7 +101,7 @@ var out = example( 'unrecognized_alias_beep_boop_bop_bip' );
 
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-discrete-uniform@esm/index.mjs';
 import aliases from 'https://cdn.jsdelivr.net/gh/stdlib-js/namespace-aliases@esm/index.mjs';
-import example from 'https://cdn.jsdelivr.net/gh/stdlib-js/repl-code-blocks@esm/index.mjs';
+import example from 'https://cdn.jsdelivr.net/gh/stdlib-js/repl-code-blocks@v0.5.0-esm/index.mjs';
 
 var list;
 var len;
