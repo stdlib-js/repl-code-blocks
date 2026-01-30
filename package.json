@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/repl-code-blocks",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "description": "Return an example associated with a provided alias.",
   "license": "Apache-2.0",
   "author": {
