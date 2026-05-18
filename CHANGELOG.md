@@ -25,6 +25,7 @@
 
 <details>
 
+-   [`f91d31a`](https://github.com/stdlib-js/stdlib/commit/f91d31a01867a5a39298fed8985d823b41c155a8) - **docs:** update REPL namespace documentation [(#12188)](https://github.com/stdlib-js/stdlib/pull/12188) _(by stdlib-bot)_
 -   [`84009d5`](https://github.com/stdlib-js/stdlib/commit/84009d55a5b7bada4eaec2c91275ff4c2983eb4f) - **feat:** add `trues` to namespace _(by Athan Reines)_
 -   [`67382e1`](https://github.com/stdlib-js/stdlib/commit/67382e1fa3073d0cd5bfdba88e9ae7b61fe61b89) - **feat:** add top-level `random.*` symbols to namespace _(by Athan Reines)_
 -   [`ed859e6`](https://github.com/stdlib-js/stdlib/commit/ed859e6a91a865638a312e0c5db6b96f328f0178) - **feat:** add `*Vector` symbols to namespace _(by Athan Reines)_
