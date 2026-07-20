@@ -28,6 +28,7 @@
 
 <details>
 
+-   [`55ca069`](https://github.com/stdlib-js/stdlib/commit/55ca069d46e27485fd4571b109bc54373d895b8b) - **docs:** update REPL namespace documentation [(#13574)](https://github.com/stdlib-js/stdlib/pull/13574) _(by stdlib-bot)_
 -   [`c9ab947`](https://github.com/stdlib-js/stdlib/commit/c9ab9472f8811bca801511466651a70d291d0440) - **docs:** update REPL namespace documentation [(#13493)](https://github.com/stdlib-js/stdlib/pull/13493) _(by stdlib-bot)_
 -   [`82e4022`](https://github.com/stdlib-js/stdlib/commit/82e4022131421705541436380e4391784e0d7655) - **docs:** update REPL namespace documentation [(#13189)](https://github.com/stdlib-js/stdlib/pull/13189) _(by stdlib-bot)_
 -   [`313ecef`](https://github.com/stdlib-js/stdlib/commit/313ecef83a5956ac3fd12b24a68085b56747740d) - **feat:** update namespace _(by Athan Reines)_
