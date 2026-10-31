@@ -4,12 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-10-30)
+## Unreleased (2026-10-31)
 
 <section class="features">
 
 ### Features
 
+-   [`ef38572`](https://github.com/stdlib-js/stdlib/commit/ef38572e3e1111ec3660bed84b07789b588849fd) - add `arraybuffer2ndarray` to namespace
 -   [`3394547`](https://github.com/stdlib-js/stdlib/commit/3394547cf513f540da70e48152ac8b63f19cc1be) - add `Int64Array` to namespace and update related packages
 -   [`313ecef`](https://github.com/stdlib-js/stdlib/commit/313ecef83a5956ac3fd12b24a68085b56747740d) - update namespace
 -   [`dfee746`](https://github.com/stdlib-js/stdlib/commit/dfee7462421d4117f86f91f175ff2391fb35012f) - add `Uint64` to namespace
@@ -29,6 +30,7 @@
 
 <details>
 
+-   [`ef38572`](https://github.com/stdlib-js/stdlib/commit/ef38572e3e1111ec3660bed84b07789b588849fd) - **feat:** add `arraybuffer2ndarray` to namespace _(by Athan Reines)_
 -   [`0786aab`](https://github.com/stdlib-js/stdlib/commit/0786aabfbcb29b5b379f4139a6e3a6cc37a062b0) - **docs:** update REPL namespace documentation [(#16373)](https://github.com/stdlib-js/stdlib/pull/16373) _(by stdlib-bot)_
 -   [`2124c44`](https://github.com/stdlib-js/stdlib/commit/2124c440197cce968ed1854c7b7bf054dae2ccb4) - **docs:** update REPL namespace documentation [(#16129)](https://github.com/stdlib-js/stdlib/pull/16129) _(by stdlib-bot)_
 -   [`34abcbe`](https://github.com/stdlib-js/stdlib/commit/34abcbe8b94597b6a2409328f0b41795bbe631cf) - **docs:** update REPL namespace documentation [(#16074)](https://github.com/stdlib-js/stdlib/pull/16074) _(by stdlib-bot)_
