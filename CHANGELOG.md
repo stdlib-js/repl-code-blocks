@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-10-31)
+## Unreleased (2026-11-01)
 
 <section class="features">
 
@@ -30,6 +30,7 @@
 
 <details>
 
+-   [`f214eec`](https://github.com/stdlib-js/stdlib/commit/f214eecb6dc540b861ce0a74b185b020be62a3c0) - **docs:** update REPL namespace documentation [(#16416)](https://github.com/stdlib-js/stdlib/pull/16416) _(by stdlib-bot)_
 -   [`ef38572`](https://github.com/stdlib-js/stdlib/commit/ef38572e3e1111ec3660bed84b07789b588849fd) - **feat:** add `arraybuffer2ndarray` to namespace _(by Athan Reines)_
 -   [`0786aab`](https://github.com/stdlib-js/stdlib/commit/0786aabfbcb29b5b379f4139a6e3a6cc37a062b0) - **docs:** update REPL namespace documentation [(#16373)](https://github.com/stdlib-js/stdlib/pull/16373) _(by stdlib-bot)_
 -   [`2124c44`](https://github.com/stdlib-js/stdlib/commit/2124c440197cce968ed1854c7b7bf054dae2ccb4) - **docs:** update REPL namespace documentation [(#16129)](https://github.com/stdlib-js/stdlib/pull/16129) _(by stdlib-bot)_
